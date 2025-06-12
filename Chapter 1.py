@@ -5,3 +5,7 @@ print ("hello world")
 import pyjokes
 joke  = pyjokes.get_joke()
 print(joke)
+# this is a single line comment, We use- Ctrl+/
+"""and this is 
+a multi line comment
+so in multi line comment we use  Triple quads"""
